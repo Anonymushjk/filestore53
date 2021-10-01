@@ -1,13 +1,13 @@
 {
-  "name": "TG File Sharing Bot",
-  "description": "file sharing bot store posts and it can access by special links",
+  "name": "𝐃𝐞𝐯𝐢𝐥 𝐅𝐢𝐥𝐞𝐬 𝐒𝐭𝐨𝐫𝐞",
+  "description": "𝙄 𝘾𝙖𝙣 𝙎𝙩𝙤𝙧𝙚 𝙋𝙧𝙞𝙫𝙖𝙩𝙚 𝙁𝙞𝙡𝙚𝙨 𝙄𝙣 𝙎𝙥𝙚𝙘𝙞𝙛𝙞𝙚𝙙 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝘼𝙣𝙙 𝙊𝙩𝙝𝙚𝙧 𝙐𝙨𝙚𝙧𝙨 𝘾𝙖𝙣 𝘼𝙘𝙘𝙚𝙨𝙨 𝙄𝙩 𝙁𝙧𝙤𝙢 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝙇𝙞𝙣𝙠.",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://github.com/rakeshyt/DevilFilesStore",
+  "logo": "https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1973129294"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -43,7 +43,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "1442442077",
       "required": false
     }
   },
