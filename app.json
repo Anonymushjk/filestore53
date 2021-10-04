@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1973129294"
+      "value": "2023126723"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -43,7 +43,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "1442442077",
+      "value": "2023126723",
       "required": false
     }
   },
